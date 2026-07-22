@@ -13,7 +13,7 @@ company's behalf, and is not a governed Advisor/Governor actor.
 
 - **Legal name**: GE HealthCare Technologies Inc.
 - **LEI (ISO 17442)**: [549300OI9J7XOWZMUN85](https://search.gleif.org/#/record/549300OI9J7XOWZMUN85) (GLEIF-verified)
-- **Jurisdiction**: US-WI
+- **Jurisdiction**: US-DE
 - **Website**: https://www.gehealthcare.com
 - **Ticker**: GEHC (Nasdaq)
 
